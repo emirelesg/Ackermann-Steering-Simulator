@@ -2,6 +2,8 @@
 
 This application simulates the movement of a four wheeled vehicle following the Ackermann Steering Model. It is possible to configure the speed of the vehicle and the steering angle in real time by the user.
 
+![User interface.](screenshot.png)
+
 ### Prerequisites
 
 - Python 3
